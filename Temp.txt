@@ -1,3 +1,4 @@
 Just a random text file to make a conflict and than resolve it
 
+Now making changes from the new branch
 This time changing the same file but from the main branch
